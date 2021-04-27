@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Cart() {
+function Login() {
     return (
         <div>
-            Your shoes
+            Login
         </div>
     )
 }
 
-export default Cart
+export default Login
